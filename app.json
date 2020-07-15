@@ -1,0 +1,19 @@
+{
+  "appKey": "zZMDa8M9xOeQObMz6m2bTeaSuDOrtQfL",
+  "appSecret": "mvlb7IlXo4V4IC3DNjdzF0MFJMDllO1U",
+  "projectId": "84aeeee94d5d79180646a7b8ce88c7ea",
+  "id": 573,
+  "name": "deep-demo-pc",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/inier/deep-demo-pc.git",
+    "isPrivate": 0,
+    "username": "inier@qq.com",
+    "password": "xNHdKHLQB7dk7sw3JDJxtxJrlhLdcyoPmtx89Jbj0dvaGwkRv3JEXeWOJ1jIWM74v1uxB6p6n69uRr4A7jk44w=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
